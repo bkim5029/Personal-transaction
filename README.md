@@ -1,5 +1,5 @@
 # Personal transaction Analysis
-This project will use a person's historic transaction data to go over the process of data analysis steps such as
+This project will use a person's historic transaction data to go over the process of data analysis
 - Data wrangling
   - Adding, deleting, dividing specific rows or columns of the dataframe to analyze
 - Data analysis
