@@ -7,4 +7,4 @@ This project will use a person's historic transaction data to go over the proces
 - Data visualiation
   - visualize the findings using Matplotlib and Tableau
 # Tabeau Dashboard
-![](Personal-transaction-Dashboard.png)
+![](personal-transaction-dashboard.jpg)
